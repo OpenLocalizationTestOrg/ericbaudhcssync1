@@ -31,16 +31,16 @@
         ]
       },
       "ECMA2Yaml": {
-        "SourceXmlFolder": "dotnet/xml",
-        "OutputYamlFolder": "dotnet/api",
+        "SourceXmlFolder": "testforhcssync/xml",
+        "OutputYamlFolder": "testforhcssync/api",
         "Flatten": true,
-        "id": "dotnet-template"
+        "id": "testforhcssync"
       },
       "SplitTOC": [
-        "dotnet/api/dotnet-template/toc.yml"
+        "testforhcssync/api/testforhcssync/toc.yml"
       ],
       "DiffFolder": [
-        "dotnet/api"
+        "testforhcssync/api"
       ]
     }
   ],
