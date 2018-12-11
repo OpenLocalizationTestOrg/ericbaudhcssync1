@@ -2,7 +2,7 @@ Cloud computing provides configurable computing resources and services that can 
 
 Hopefully, the cloud is an attractive option, but what if you already have existing on-premises infrastructure? Or you have highly sensitive data that you're not willing or able to store off-site?
 
-Azure provides several configurations allowing you to blend or transition between on-premises and a solution hosted completely in the cloud.
+Azure provides several  bla blab configurations allowing you to blend or transition between on-premises and a solution hosted completely in the cloud.
 
 ## Learning objectives
 
